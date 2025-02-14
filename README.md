@@ -8,7 +8,11 @@
 In this studio, we followed a tutorial to build a simple bowling game. 
 We delved into Unity's physics system, learned how to use the Cinemachine Camera, and practiced importing and utilizing assets from external sources. 
 Additionally, we explored how to delegate responsibilities among different game objects using simple design patterns. 
-These studios have been invaluable for establishing foundational knowledge, and I look forward to future projects that offer more freedom and challenge.
+
+Tennis ball by Poly by Google [CC-BY] via Poly Pizza
+
+Bowling pin by Poly by Google [CC-BY] via Poly Pizza
+
 
 ## Demo Below
 
